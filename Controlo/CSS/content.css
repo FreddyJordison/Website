@@ -1,0 +1,148 @@
+﻿.cont {
+	margin: 0 auto;
+	display:block;
+	font-family: Arial, Helvetica, sans-serif;
+	width: 50%;
+}
+			
+.cont input[type=text] {
+	background-color: #dedede;
+	border-radius: 3px;
+	border: none;
+	display: block;
+	outline: none;
+	overflow: hidden;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1em;
+	width: 100%;
+}
+
+.cont h2{
+	color: blue;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.accbtn{
+	font-size: 15px;
+	background-color: #008500;
+	border-radius: 15px;
+	color:white;
+	outline: none;
+	overflow: hidden;
+	border: none;
+	margin: 2px auto;
+	padding: 10px;
+	width: 100%;
+	display: block;
+	cursor:pointer;
+}
+
+.rembtn{
+	font-size: 15px;
+	background-color: #850000;
+	border-radius: 15px;
+	color:white;
+	outline: none;
+	overflow: hidden;
+	border: none;
+	margin: 2px auto;
+	padding: 10px;
+	width: 100%;
+	display: block;
+	cursor:pointer;
+}
+
+.editbtn{
+	font-size: 15px;
+	background-color: #000085;
+	border-radius: 15px;
+	color:white;
+	outline: none;
+	overflow: hidden;
+	border: none;
+	margin: 2px auto;
+	padding: 10px;
+	width: 100%;
+	display: block;
+	cursor:pointer;
+}
+
+			
+.cont a {
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+	width:100%
+}
+			
+.select {
+	display: block;
+	border: none;
+	padding: 1em;
+	margin: 2px auto;
+	outline: none;
+	width:100%;
+	background-color: #dedede;
+	border-radius: 3px;
+}	
+
+.cont option {
+	background-color: #dedede;
+	border: none;
+	border-radius: 3px;
+	padding: 0 1px;
+	outline: none;
+	overflow: hidden;
+}
+			
+@media screen and (max-width: 900px) {	
+	.cont {
+		display: block;
+		text-align:center;
+		width: 100%;
+	}
+
+	.cont a {	  
+		margin:0;		
+    	width: 100%;	 		
+   	}
+
+	.cont input[type=text] {
+		margin-left: auto;
+		margin-right: auto;
+		width: 90%;
+	}
+	
+	.accbtn {
+		margin: 0;
+		width: 100%;
+		background-color: #008500;
+		border-radius: 3px;
+	}
+	
+	.rembtn {
+		margin: 0;
+		width: 100%;
+		background-color: #850000;
+		border-radius: 3px;
+	}
+	
+	.editbtn {
+		margin: 0;
+		width: 100%;
+		background-color: #000085;
+		border-radius: 3px;
+	}
+ 		   		
+	.select {
+		margin-left: auto;
+		margin-right: auto;
+		text-align:center;
+		display: block;
+		padding: 10px;
+		width: 90%;
+		background-color: transparent;
+	}
+}

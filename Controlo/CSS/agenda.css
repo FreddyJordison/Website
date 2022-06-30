@@ -1,0 +1,107 @@
+﻿.agenda {
+	margin: 0 auto;
+	width: 50%;
+}
+
+.agenda h2 {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.agenda .table {
+	border-radius: 5px;
+	width: 100%;
+	margin: 10px auto;
+	overflow: hidden;
+	background-color: #dedede;
+}
+
+.agenda .table h1 {
+	float: left;
+	display: inline-block;
+	text-align:center;
+}
+
+.agenda .table .hr {
+	position: absolute;
+	z-index: 0;
+	background-color: black;
+	display: inline-block;
+	width: 2px;
+	height: inherit;
+}
+
+.agenda .divs{
+	width: 100%;
+	overflow: hidden;
+	background-color: #dedede;
+}
+
+.agenda .divs:hover{
+	background-color: #ffffff;
+}
+
+.agenda .table a {
+	float: none;
+	margin: 0 auto;
+	display: block;
+	text-decoration: none;
+	text-align:center;
+	color: black;
+}
+
+.agendaadd {
+	margin: 0 auto;
+	text-align: center;
+	width: 50%;
+	overflow: hidden;
+}
+
+.agendaadd input[type=text] {
+	background-color: #dedede;
+	border-radius: 3px;
+	border: none;
+	display: block;
+	outline: none;
+	overflow: hidden;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1em;
+	width: 100%;
+}
+
+.agendaadd option {
+	display: block;
+	background-color: #dedede;
+	border: none;
+	border-radius: 3px;
+	padding: 0 1px;
+	outline: none;
+	overflow: hidden;
+	width: 100%;
+}
+
+.selectagnd{
+	display: inline-block;
+	border: none;
+	padding: 1em;
+	margin: 2px 2px;
+	outline: none;
+	width:49%;
+	background-color: #dedede;
+	border-radius: 3px;
+}
+
+@media screen and (max-width: 900px) {
+	.agenda {
+		width: 100%;
+		margin: 0 auto;
+	}
+	
+	.selectagnd {
+		margin: 2px 1px;
+	}
+	.agenda .table, .agendaadd {
+		width: 100%;
+	}
+}

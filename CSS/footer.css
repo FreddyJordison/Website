@@ -1,0 +1,71 @@
+﻿#pgcont {
+	position:relative;
+	min-height: 75vh;
+}
+
+#foot {
+	overflow: hidden;
+	background-color: transparent;
+	width: 100%;
+	position: absolute;
+	font-size: 15px;
+	margin-top: 10px;
+}
+
+#foot form{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	text-align: center;
+	position:relative;
+}
+
+#foot button {
+	font-family: 'proto';
+	background-color: transparent;
+	border: none;
+	outline: transparent;
+	color: black;
+	display:inline-block;
+	font-size: 15px;
+	margin-left:5em;
+	margin-right:5em;
+	cursor:pointer;
+}
+
+.otro {
+	position: absolute;
+	font-size: 10px;
+	right: 0;
+	bottom:-1;
+	margin: 20px;
+	margin-bottom:0px;
+	display: block;
+	margin-top: 30px;
+	transform:translate(0, 80%);
+}
+
+.otro a{
+	display: inline-block;
+	text-decoration:none;
+	margin: 10px;
+	color: black;
+}
+
+@media only screen and (max-width: 900px) {
+	#pgcont {
+		min-height: 85vh;
+	}
+	
+	#foot button{
+		margin:auto;
+}
+}
+
+@media only screen and (max-width:200px){
+	#foot button{
+		display:block;
+		margin: auto;
+	}
+}

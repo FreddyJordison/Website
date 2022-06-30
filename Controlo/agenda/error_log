@@ -1,0 +1,43 @@
+[03-Feb-2019 17:31:12 UTC] PHP Notice:  Undefined variable: dia in /home/oa3284z0/public_html/Controlo/agenda/cons.php on line 21
+[03-Feb-2019 17:31:20 UTC] PHP Notice:  Undefined variable: dia in /home/oa3284z0/public_html/Controlo/agenda/cons.php on line 21
+[03-Feb-2019 17:39:55 UTC] PHP Notice:  Undefined variable: dia in /home/oa3284z0/public_html/Controlo/agenda/cons.php on line 21
+[03-Feb-2019 17:39:55 UTC] PHP Notice:  Undefined variable: dia in /home/oa3284z0/public_html/Controlo/agenda/cons.php on line 23
+[03-Feb-2019 17:40:23 UTC] PHP Notice:  Undefined variable: dia in /home/oa3284z0/public_html/Controlo/agenda/cons.php on line 23
+[04-Feb-2019 20:28:13 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[04-Feb-2019 20:35:22 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[04-Feb-2019 20:35:34 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[05-Feb-2019 14:33:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[06-Feb-2019 11:56:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[06-Feb-2019 15:10:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[07-Feb-2019 09:28:02 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[07-Feb-2019 09:37:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[07-Feb-2019 13:59:13 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[07-Feb-2019 16:50:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[07-Feb-2019 19:26:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/oa3284z0/public_html/Controlo/agenda/add.php on line 49
+[07-Feb-2019 19:27:02 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[07-Feb-2019 19:28:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[07-Feb-2019 19:28:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[07-Feb-2019 19:29:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[07-Feb-2019 19:29:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[07-Feb-2019 19:30:58 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[07-Feb-2019 19:31:02 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[07-Feb-2019 19:34:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[07-Feb-2019 19:35:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[07-Feb-2019 19:42:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[07-Feb-2019 20:36:25 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[07-Feb-2019 20:36:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oa3284z0/public_html/Controlo/Head/header.php:8) in /home/oa3284z0/public_html/Controlo/agenda/remover.php on line 11
+[07-Feb-2019 20:36:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[07-Feb-2019 20:36:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oa3284z0/public_html/Controlo/Head/header.php:8) in /home/oa3284z0/public_html/Controlo/agenda/remover.php on line 11
+[07-Feb-2019 20:36:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[07-Feb-2019 20:36:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oa3284z0/public_html/Controlo/Head/header.php:8) in /home/oa3284z0/public_html/Controlo/agenda/remover.php on line 11
+[07-Feb-2019 20:37:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[07-Feb-2019 20:37:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oa3284z0/public_html/Controlo/Head/header.php:8) in /home/oa3284z0/public_html/Controlo/agenda/remover.php on line 11
+[07-Feb-2019 20:38:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[07-Feb-2019 20:38:54 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[07-Feb-2019 21:53:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[07-Feb-2019 21:53:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[08-Feb-2019 11:13:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[08-Feb-2019 11:16:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[08-Feb-2019 11:28:39 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[08-Feb-2019 11:48:57 UTC] PHP Notice:  Undefined variable: _SESSION in /home/oa3284z0/public_html/Controlo/Head/header.php on line 5
+[09-Feb-2019 16:06:44 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/oa3284z0/public_html/Controlo/agenda/cons.php on line 79

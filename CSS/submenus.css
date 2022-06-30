@@ -1,0 +1,111 @@
+﻿#pgtop {
+	width:100%;
+	display:inline-block;
+	float: right;
+	margin-bottom: 10px;
+}
+
+#pgtop img {
+	float: right;
+	top: 0;
+	display: inline-block;
+	margin: auto;
+	height: 80px;
+}
+
+#smenu{
+	width:20%;
+	margin-top: 10px;
+	float: right;
+	display:block;
+	text-align: center;
+}
+
+#smenu a{
+	font-size: 15px;
+	margin-top: 1em;
+	display:block;
+	padding:1em;
+	cursor:pointer;
+}
+
+#smenu a.active {
+	background-color:rgba(240,240,240,0.5);
+	border-radius: 0 10px 10px 0;
+}
+
+#smcont {
+	border:10px;
+	border-style:solid;
+	border-color: rgba(240,240,240,0.5);
+	width:80%;
+	display:inline-block;
+	margin-left:auto;
+	margin-right: auto;
+	margin-top: 20px;
+	border-radius: 10px;
+	text-align: center;
+}
+
+#smcont h1{
+	font-family: "Baskerville Old Face";
+	font-size: 25px;
+	margin:auto;
+	display: block;
+	font-style:normal;
+}
+
+#smcont p{
+	font-family: "Baskerville Old Face";
+	font-size:20px;
+}
+
+#proc, #qual, #tipo {
+	display: none;
+}
+
+@media only screen and (max-width: 900px) {
+
+	#pgtop {
+		float: none;
+	}
+
+	#pgtop img {
+		float: right;
+		padding-bottom: 15px;
+	}
+
+	#smenu {
+		margin-top: 0;
+		float: none;
+		margin: auto;
+		width: 100%;
+	}
+
+	#smenu a{
+		display:block;
+	}
+
+	#smenu a.active {
+		background-color:rgba(240,240,240,0.5);
+		border-radius: 0 0;
+	}
+	
+	#smcont {
+		border: 0;
+		border-radius:0;
+		border-top:10px;
+		border-bottom:10px;
+		border-style:solid;
+		border-color: rgba(240,240,240,0.5);
+		width:100%;
+		display:block;
+		margin:auto;
+		text-align: center;
+	}
+	
+	#pgtop img {
+		height: 50px;
+	}
+
+}

@@ -1,0 +1,54 @@
+﻿.veri {
+	display:block;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	text-align: center;
+	display: block;
+	width: 50%;
+}
+
+.veri .button {
+	color: black;
+	cursor: pointer;
+	background-color: transparent;
+	border: none;
+	padding: 5px;
+	font-size: 17px;
+}
+
+.veri img {
+	height: 30px;
+	width: 30px;
+	margin: 5px;
+	display: inline-block;
+}
+
+.veril {
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.hover {
+	display: none;
+	width: 75%;
+	position: fixed;
+	z-index: 0;
+	left: 50%;
+	margin-left: -37.5%;
+	background-color: rgba(0,0,0,0.5);
+	height: 50vh;
+}
+
+@media screen and (max-width: 900px) {	
+	.veri .button {
+		color: black;
+		cursor: pointer;
+		background-color: transparent;
+		border: none;
+		padding: 5px;
+		font-size: 17px;
+	}
+
+}
